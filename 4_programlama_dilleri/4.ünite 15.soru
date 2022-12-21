@@ -1,0 +1,11 @@
+4, 15.soru
+Exception’lar es geçilmemelidir
+ Satırlar çok fazla uzun olmamalıdır
+Bir method çok fazla parametre almamalıdır.
+Bir method sadece bir sorumluluğu yerine getirmelidir
+Kodlama yaparken kodlar içerisinde magic string/numbers kullanılmamalıdır
+External kaynaklara erişecek bir class varsa IDisposable pattern’ini implemente edilmelidir
+System type name’ler yerine Predefined type name’ler kullanılmalıdır
+String birleştirme işlemlerinde “+” öperatörü kullanımına dikkat edilmelidir
+Enum tanımlarken null olarak sıfırıncı değer tanımlanmalıdır
+Boolean statement’leri ters kontrol edilmemelidir
